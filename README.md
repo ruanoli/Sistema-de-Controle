@@ -1,4 +1,4 @@
-# diolive
+# Sistema de controle de ponto e controle de acesso.
 
 Api rest para gerenciamento de ponto e controle de acesso.
 
